@@ -15,3 +15,4 @@ This repository is reset automatically by an hourly GitHub Action:
 - **Seed PRs** labeled `lab-seed-pr` are kept open for discoverability and only closed after they are at least **12 hours** old.
 
 The seed PR is used so students can quickly find a successful CodeBuild check URL directly from the repository UI.
+path-b-trigger 
